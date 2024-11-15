@@ -33,22 +33,20 @@ Eco Vision empowers organizations with actionable insights to optimize waste red
 ### 3. Mobile Development
 - **Android (Kotlin)**: The mobile app is developed natively for Android, providing real-time data collection and notifications for on-site waste monitoring.
 
-## Project Structure
-- **/data**: Contains data preprocessing and cleaning scripts.
-- **/ml_model**: Machine Learning model training, testing, and Docker configuration.
-- **/backend**: Backend services built with Node.js and Express.js, including API endpoints for data retrieval and updates.
-- **/mobile_app**: Source code for the Android app developed with Kotlin.
-- **/dashboard**: Frontend code for the web dashboard built with React.js, displaying data insights and analytics.
+## Team Member :
 
-## Getting Started
-### Prerequisites
-- **Node.js** and **npm** for backend development
-- **Docker** for containerizing the ML model
-- **Android Studio** for mobile app development
-- **Google Cloud Account** with necessary permissions to set up GCP resources
+| ID           | Name                                | Learning Path | Profile |
+| :------------: | ----------------------------------- | :--------------: | :-------: |
+| M253B4KX3514  | Putri Andani                      | ML             |    [putrian12](https://github.com/putrian12)    |
+| C495B4KY3296  | Naufal Rizky Akbar                 | CC             |    [naufalrizkyakbar](https://github.com/naufalrizkyakbar)     |
+| A015B4KY1453  | Fauzan Najib Habiibii                      | MD             |    [fauzan677](https://github.com/fauzan677)    |
 
-### Installation
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/ecovision.git
-   cd ecovision
+## Repositories
+|   Learning Paths   |                                Link                                |
+| :----------------: | :----------------------------------------------------------------: |
+| Machine Learning | [Github](https://github.com/EcoVision-Bangkit-2024/ecovision-machine-learning) |
+|  Cloud Computing  | [Github](https://github.com/EcoVision-Bangkit-2024/ecovision-cloud-computing)  |
+|   Mobile Development  | [Github](https://github.com/EcoVision-Bangkit-2024/ecovision-mobile-development)  |
+
+## Project Documents
+Project Plan: https://docs.google.com/document/d/1S-G6_x5MlG-4yTRFKV1iL8wzajBLUddiz0mt4r6PF5c/edit?usp=sharing
